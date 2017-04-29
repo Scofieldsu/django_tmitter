@@ -1,0 +1,20 @@
+=Tmitter
+
+miniblog like twitter
+
+==Features
+
+  * miniblog like twitter
+  * simple UI
+  * base on Python + Django
+
+==Install
+  1. Python 2.7.10
+  2. Django 1.9.2
+  3. postgresql 9.5
+  4. PIL 3.0.0 <http://www.pythonware.com/products/pil/>
+  5.psycopg2 ==2.4.5
+
+
+
+
