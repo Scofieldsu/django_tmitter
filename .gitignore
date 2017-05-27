@@ -1,0 +1,6 @@
+.idea/
+.svn
+*.pyc
+# compiled python files
+*.py[co]
+
